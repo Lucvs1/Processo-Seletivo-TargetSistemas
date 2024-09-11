@@ -10,3 +10,5 @@ while (K < INDICE) {
 console.log(SOMA);
 
 // Para ver o resultado, coloque no terminal: "node soma.js"//
+
+Resultado = 91
